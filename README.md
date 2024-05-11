@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhsina Juhi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="right"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhi732&label=Profile%20views&color=0e75b6&style=flat" alt="zuhi732" /> </p>" alt="zuhi732" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=zuhi732&label=Profile%20views&color=0e75b6&style=flat" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhi732&label=Profile%20views&color=0e75b6&style=flat" alt="zuhi732" /> </p>
 
